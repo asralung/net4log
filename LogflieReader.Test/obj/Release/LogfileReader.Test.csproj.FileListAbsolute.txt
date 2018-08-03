@@ -1,0 +1,16 @@
+C:\Project\net4log\LogflieReader.Test\bin\Release\LogfileReader.Test.dll.config
+C:\Project\net4log\LogflieReader.Test\bin\Release\LogfileReader.Test.dll
+C:\Project\net4log\LogflieReader.Test\bin\Release\LogfileReader.Test.pdb
+C:\Project\net4log\LogflieReader.Test\bin\Release\FluentAssertions.Core.dll
+C:\Project\net4log\LogflieReader.Test\bin\Release\FluentAssertions.dll
+C:\Project\net4log\LogflieReader.Test\bin\Release\LogfileReader.dll
+C:\Project\net4log\LogflieReader.Test\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Project\net4log\LogflieReader.Test\bin\Release\LogfileReader.pdb
+C:\Project\net4log\LogflieReader.Test\bin\Release\FluentAssertions.pdb
+C:\Project\net4log\LogflieReader.Test\bin\Release\FluentAssertions.xml
+C:\Project\net4log\LogflieReader.Test\bin\Release\FluentAssertions.Core.pdb
+C:\Project\net4log\LogflieReader.Test\bin\Release\FluentAssertions.Core.xml
+C:\Project\net4log\LogflieReader.Test\obj\Release\LogfileReader.Test.csprojResolveAssemblyReference.cache
+C:\Project\net4log\LogflieReader.Test\obj\Release\LogfileReader.Test.csproj.CoreCompileInputs.cache
+C:\Project\net4log\LogflieReader.Test\obj\Release\LogfileReader.Test.dll
+C:\Project\net4log\LogflieReader.Test\obj\Release\LogfileReader.Test.pdb

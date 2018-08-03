@@ -1,0 +1,6 @@
+C:\Project\net4log\LogfileReader\bin\Release\LogfileReader.dll
+C:\Project\net4log\LogfileReader\bin\Release\LogfileReader.pdb
+C:\Project\net4log\LogfileReader\obj\Release\LogfileReader.csprojResolveAssemblyReference.cache
+C:\Project\net4log\LogfileReader\obj\Release\LogfileReader.csproj.CoreCompileInputs.cache
+C:\Project\net4log\LogfileReader\obj\Release\LogfileReader.dll
+C:\Project\net4log\LogfileReader\obj\Release\LogfileReader.pdb
